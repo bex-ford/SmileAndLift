@@ -2294,7 +2294,7 @@ button:focus {
 .layered-filter-block .filter-options-item {
     padding: 20px;
     margin-bottom: 20px;
-    border-top: 6px solid #4d45f6;
+    border-top: 6px solid #d4af37;
     background-color: #f8f8f8;
 }
 .layered-filter-block .filter-options-content {
@@ -2318,7 +2318,7 @@ button:focus {
 .sidebar.sidebar-additional .block {
     padding: 20px;
     margin-bottom: 20px;
-    border-top: 6px solid #4d45f6;
+    border-top: 6px solid #d4af37;
     background-color: #f8f8f8;
 }
 .sidebar.sidebar-additional .block .block-content {
